@@ -21,8 +21,14 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Research Fellow / Software Engineer - University of Massachusetts Amherst <span>2022-present</span></h2>
+                        <p>As a Research Fellow at the Gleason Lab at UMass Amherst, I am in charge of 
+                          a mission critical cloud based data pipeline for the SWOT satelite launched by NASA and CNES.
+                          This pipeline, called Confluence, is the culmination of two decades of hydrologic modeling work by teams across the globe.
+                          It is my privledge to lead these teams in incorperating their analysis into the pipeline in a robust, scalable, and cost efficient way.
+                          Using this pipeline, we will soon know how much water is moving through every river in the world. 
+
+                           </p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +38,14 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Research Data Support Specialist - Universtiy of Arizona <span>2020-2022</span></h2>
+                        <p>Following an intership with the Pauli Lab at the UofA, I was hired as full time staff in the lab.
+
+                          There, I helped build a data pipeline for the worlds largest plant phenotyping robot in the middle of the desert, 
+                          trained many undergraduate students in the basics of data science, created data visualizations, and built a
+                          VR environment for agricultural data exploration.
+
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +55,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Lead STEM Tutor - The College of Coastal Georgia <span>2019-2020</span></h2>
+                        <p>Provided one-on-one peer tutoring through a federally funded program (TRiO) which is available to 
+                          underserviced student demographics. (every school has TRiO, tell your students about it)
+                           </p> 
                       </div>
                     </div>
                   </article>
